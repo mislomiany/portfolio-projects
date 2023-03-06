@@ -1,0 +1,40 @@
+06 Mar 2023 13:21:44 +0000:	Eaten: 3
+06 Mar 2023 13:23:32 +0000:	Eaten: 9
+06 Mar 2023 13:28:26 +0000:	Eaten: 35
+06 Mar 2023 13:34:26 +0000:
+               	Eaten: 0               	Time in game: (2000600, 0, 0, 0)s
+06 Mar 2023 13:34:57 +0000:
+               	Eaten: 1               	Time in game: (4254755300, 0, 0, 0)s
+06 Mar 2023 13:35:39 +0000:
+               	Eaten: 3               	Time in game: 6s
+06 Mar 2023 13:36:05 +0000:
+               	Eaten: 0               	Time in game: 3s
+06 Mar 2023 13:36:20 +0000:
+               	Eaten: 0               	Time in game: 0s
+06 Mar 2023 13:37:01 +0000:
+               	Eaten: 11               	Time in game: 31s
+06 Mar 2023 13:44:14 +0000:
+               	Eaten: 18
+               	Time in game: 67s
+06 Mar 2023 13:46:59 +0000:
+               	Eaten: 14
+               	Time in game: 0min 56s
+06 Mar 2023 13:56:42 +0000:
+               	Eaten: 2
+               	Time in game: 0min 12s
+06 Mar 2023 13:59:52 +0000:
+               	Eaten: 1
+               	Time in game: 0min 3s
+06 Mar 2023 14:00:03 +0000:
+               	Eaten: 0
+               	Time in game: 0min 0s
+06 Mar 2023 14:00:11 +0000:
+               	Eaten: 0
+               	Time in game: 0min 0s
+06 Mar 2023 14:00:24 +0000:
+               	Eaten: 0
+               	Time in game: 0min 3s
+06 Mar 2023 14:03:25 +0000:
+               	Eaten: 2
+               	Time in game: 0min 4s
+               	Dead by: collision_check
