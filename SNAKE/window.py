@@ -2,7 +2,6 @@ import pygame
 import maps
 import time
 import events
-# import vars
 
 BLACK = (0,0,0,1)
 WHITE = (255,255,255,1)
